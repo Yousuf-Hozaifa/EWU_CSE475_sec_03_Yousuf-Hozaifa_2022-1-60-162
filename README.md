@@ -8,7 +8,7 @@ This repository contains submission of lab-tasks of the course CSE475 (Machine L
 * **Section:** 03
 
 **Repository Owner:**
-* **Name:** Yousuf-Hozaifa
+* **Name:** <a href="https://github.com/Yousuf-Hozaifa">Yousuf-Hozaifa</a>
 * **ID:** 2022-1-60-162
 
 **Course Instructor:**
