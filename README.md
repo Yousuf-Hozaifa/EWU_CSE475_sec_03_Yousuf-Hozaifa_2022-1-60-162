@@ -1,1 +1,2 @@
-# -EWU_CSE475_sec_03_Yousuf-Hozaifa_2022-1-60-162
+# CSE475 Lab Tasks
+This repository contains submission of lab-tasks of the course CSE475 (Machine Learning).
